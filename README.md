@@ -10,7 +10,7 @@ Thoughts is a web application built using NodeJs and EJS that allows user to sha
 
 2. **Create the Workspace**:  
    ```bash  
-   daytona create https://github.com/parikshitadhikari/thoughts-daytona.git 
+   daytona create  https://github.com/daytonaio/sample-ejs-web-app
    ```  
 
 3. **Start the Application**:  
